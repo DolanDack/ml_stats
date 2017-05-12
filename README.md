@@ -5,7 +5,7 @@ Right now, I do not have a solid idea of what the contents are going to be or ho
 
 A rough outline of the content I *aim* to cover is:
 - Statistical Data Analysis
-    It will include subsections like, data preprocessing, Bayesian Statistical Analysis and GLM's and Timeseries analysis
+    * It will include subsections like, data preprocessing, Bayesian Statistical Analysis and GLM's and Timeseries analysis
 - Unsupervised ML
 - Supervised ML
 - Neural Networks
