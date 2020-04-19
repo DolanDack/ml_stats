@@ -1,14 +1,14 @@
-# ml_stats
-This repository is my attempt to contribute to the machine learning/computational statistics community. I aim to update its content as often as possible, which it will include machine learning algorithms, their statistical background, practical problems with their code in R and python.
+![Machine Learning & Statistical Methods](SAML.png)
 
-Right now, I do not have a solid idea of what the contents are going to be or how often I will update the topics (I said as often as possible but that is rather vague). I guess, it will be a "trial-and-error" period until I reach something solid. Ultimately, I would very much like to give an interactive essence to this repository, with people contributing ideas/codes/and topics.
+# Machine Learning and Statistical Methods
 
-A rough outline of the content I *aim* to cover is:
-- Statistical Data Analysis
-    * It will include subsections like, data preprocessing, Bayesian Statistical Analysis and GLM's and Timeseries analysis
-- Unsupervised ML
-- Supervised ML
-- Neural Networks
+## Supervised Learning
 
+### Linear Regression
 
-George 
+Sources: 
+
+1. [The Elements of Statistical Learning](https://web.stanford.edu/~hastie/ElemStatLearn/)
+2. [An Introduction to Statistical Learning: With Applications in R](http://faculty.marshall.usc.edu/gareth-james/ISL/)
+
+Similarly to almost any statistical model, linear regression assumes a matrix of inputs $X$ with $X \in \mathbb{R}^{n \times d}$, $n$ being the number of observations and $d$ being the 
